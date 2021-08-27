@@ -4,4 +4,4 @@ Designing Frontend of given website using HTML & CSS
 
 ## Screenshot
 
-<img width="960" alt="screenshot-2" src="https://user-images.githubusercontent.com/60104803/131150552-921803c4-9b13-4b49-aea9-85119c6d018b.PNG">
+<img width="960" alt="screenshot-3" src="https://user-images.githubusercontent.com/60104803/131152427-755de0e8-aa0c-428d-8d17-f54c863b9d86.PNG">
